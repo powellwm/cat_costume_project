@@ -1,0 +1,154 @@
+body {
+
+
+}
+
+.shop{
+  display: flex;
+  justify-content: flex-start;
+}
+nav{
+
+  font-family: PT sans-serif;
+  height: 50px;
+  margin-top: 10px;
+}
+
+.about{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.info{
+  word-spacing: 10px;
+}
+
+a{
+  text-align: right;
+  color: #f26522;
+  font-size: 1em;
+
+
+}
+
+.main{
+  text-align: center;
+  padding-bottom: 80px;
+}
+
+
+.flex-container{
+  display: flex;
+    flex-direction: row;
+    justify-content:  center;
+    justify-content: space-around;
+
+  }
+
+h2{
+  text-align: center;
+  color: #00897f;
+}
+
+.Kat{
+  background-color: #eeeeee;
+  border: 5px;
+  width: 250px;
+  height: 200px;
+  padding: 15px;
+  border-style: solid;
+  border-color: #eeeeee;
+
+
+}
+
+  .Mavis{
+    background-color: #eeeeee;
+    border: 5px;
+    width: 250px;
+    height: 200px;
+    padding: 15px;
+    border-style: solid;
+    border-color: #eeeeee;
+
+
+}
+
+.costumes{
+  padding: 80px;
+}
+
+
+.cats{
+  border-radius: 250px;
+  padding: 55px;
+
+
+}
+
+
+
+.Get{
+  background-color: #eeeeee;
+  text-align: center;
+  padding: 45px;
+}
+
+
+.touch{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #eeeeee;
+  padding-bottom: 80px;
+
+}
+
+
+.business{
+  background-color: white;
+  font-family: 'pt sans', sans-serif;
+  width: 250px;
+  height: 200px;
+  padding: 30px;
+
+
+}
+
+.contact{
+  background-color: white;
+  font-family: sans-serif;
+  width: 250px;
+  height: 200px;
+  padding: 30px;
+border: 5px;
+border-style: solid;
+border-color: #eeeeee;
+
+}
+
+.footer{
+  display: flex;
+  background-color: #00897f;
+  font-family: "PT sans Narrow", sans-serif;
+  color: white;
+  height: 125px;
+  font-weight: bold;
+  justify-content: center;
+  align-content: center;
+
+}
+
+}
+
+
+/* On devices wider than 660px */
+@media(min-width: 660px) {
+}
+
+/* On devices wider than 940px */
+@media(min-width: 940px) {
+}
