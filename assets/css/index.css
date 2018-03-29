@@ -1,4 +1,4 @@
-body {
+body {font-family: 'PT Sans', sans-serif;
 
 
 }
@@ -37,6 +37,10 @@ a{
   padding-bottom: 80px;
 }
 
+.splash img{
+  width: 100%;
+
+}
 
 .flex-container{
   display: flex;
@@ -49,6 +53,10 @@ a{
 h2{
   text-align: center;
   color: #00897f;
+}
+
+img{
+  max-width: 100%;
 }
 
 .Kat{
