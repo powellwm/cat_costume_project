@@ -84,7 +84,9 @@ img{
 }
 
 .costumes{
-  padding: 80px;
+  width: 90%;
+  padding: 50px;
+
 }
 
 
@@ -150,11 +152,13 @@ border-color: #eeeeee;
 
 }
 
-}
+
 
 
 /* On devices wider than 660px */
-@media(min-width: 660px) {
+@media screen (min-width: 660px) and (max-width: 824px) {
+    
+    }
 }
 
 /* On devices wider than 940px */
